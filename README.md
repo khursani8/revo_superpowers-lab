@@ -20,6 +20,28 @@ Superpowers Lab enforces the scientific method for ML experiments:
 /plugin install superpowers-lab
 ```
 
+## Quick Start
+
+1. Install the plugin:
+```bash
+/plugin install /path/to/superpowers-lab
+```
+
+2. Start a new session and say:
+```text
+I want to test if adding attention helps my model
+```
+
+3. Superpowers Lab will guide you through:
+- Creating an experiment plan
+- Running with reproducibility tracking
+- Analyzing results vs baseline
+- Deciding next steps
+
+## Example Workflow
+
+See [docs/WORKFLOW.md](docs/WORKFLOW.md) for detailed examples.
+
 ## Skills
 
 - **experiment-planning** - Structured questionnaire → written plan
