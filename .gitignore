@@ -1,0 +1,17 @@
+# Claude Code plugin
+*.log
+.DS_Store
+
+# Python (for examples/tests)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Experiment artifacts (when testing locally)
+experiments/artifacts/
+experiments/configs/
+!experiments/.gitkeep
