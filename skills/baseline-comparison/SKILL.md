@@ -1,11 +1,3 @@
-## Task 11: Specialized Skill - Baseline Comparison
-
-**Files:**
-- Create: `skills/baseline-comparison/SKILL.md`
-
-- [ ] **Step 1: Create baseline-comparison skill**
-
-```markdown
 # Baseline Comparison
 
 Head-to-head comparison between two models/configs to determine which is better.
@@ -152,4 +144,3 @@ git commit -m "feat: add baseline-comparison skill"
 ```
 
 ---
-

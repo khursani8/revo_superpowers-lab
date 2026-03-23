@@ -1,11 +1,3 @@
-## Task 10: Specialized Skill - Hyperparameter Sweep
-
-**Files:**
-- Create: `skills/hyperparameter-sweep/SKILL.md`
-
-- [ ] **Step 1: Create hyperparameter-sweep skill**
-
-```markdown
 # Hyperparameter Sweep
 
 Grid or random search across hyperparameter space with systematic tracking.
@@ -190,4 +182,3 @@ git commit -m "feat: add hyperparameter-sweep skill"
 ```
 
 ---
-

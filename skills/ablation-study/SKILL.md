@@ -1,11 +1,3 @@
-## Task 9: Specialized Skill - Ablation Study
-
-**Files:**
-- Create: `skills/ablation-study/SKILL.md`
-
-- [ ] **Step 1: Create ablation-study skill**
-
-```markdown
 # Ablation Study
 
 Systematically remove or vary components to isolate what contributes to performance.
@@ -167,4 +159,3 @@ git commit -m "feat: add ablation-study skill"
 ```
 
 ---
-
