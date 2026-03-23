@@ -8,6 +8,9 @@
     "skills/experiment-planning",
     "skills/experiment-execution",
     "skills/experiment-analysis",
+    "skills/ablation-study",
+    "skills/hyperparameter-sweep",
+    "skills/baseline-comparison",
     "skills/reproducibility-check",
     "skills/verification-before-completion"
   ],
