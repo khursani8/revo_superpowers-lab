@@ -1,3 +1,5 @@
+> **Unique:** Claude Code plugin that enforces a scientific-method ML experimentation workflow: planning, execution, analysis, ablation, sweep, reproducibility, and verification skills with WIN/LOSS/NEUTRAL/INVALID outcome labels and an experiments ledger.
+
 # Superpowers Lab
 
 Disciplined experimentation workflow for AI/ML research in Claude Code.
